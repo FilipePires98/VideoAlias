@@ -1,6 +1,12 @@
 # Video Alias
 A Study on the Aliasing Effect on Video
 
+![](https://img.shields.io/badge/Academical%20Project-Yes-green)
+![](https://img.shields.io/badge/Made%20with-MATLAB-orange)
+![](https://img.shields.io/badge/License-Free%20To%20Use-green)
+![](https://img.shields.io/badge/3D%20Models-Free%20To%20Use-green)
+![](https://img.shields.io/badge/Maintained-No-red)
+
 ## Description
 
 The goal of this project is to execute a study on the behavior of sound waves and video capture when their frequencies are matched.
